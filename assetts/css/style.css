@@ -1,0 +1,32 @@
+#background {
+    background-image: url("../images/Chemistry.jpg");
+    height:100%;
+    width:100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+      
+}
+
+h1 {
+    color: palevioletred;
+    font-size: 50px;
+    text-align: center;
+    
+       
+}
+
+p { 
+    text-align: center;
+    text-transform: capitalize;
+    color: navy;
+    font-weight: bold;
+    font-size: large;
+    line-height: 1.4;
+  
+}
+   
+   
+    
+    
+
+
